@@ -1,0 +1,16 @@
+dev environmet:
+
+npm run dev
+
+
+production environment:
+
+npm run build
+serve -s dist
+
+
+----------------------------------------
+
+Hosting with firebase -->
+
+https://medium.com/@jhonatanfroeder/usando-o-firebase-para-hospedar-seu-pwa-em-vue-js-8c8ea9753b45
